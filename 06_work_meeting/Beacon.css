@@ -1,0 +1,46 @@
+body{
+    background-color:  #E0E0E0 ;
+    color: #660000 ;
+    font-style: Arial;
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+img {
+    width: 3%;
+    float: central;
+    margin: 10px;
+
+}
+p{
+    font-weight: bold;
+    text-align: left;
+}
+#jel1 {
+    float: left;
+
+}
+#jel2 {
+    float: right;
+    
+}
+#nemet {
+    width: 10%;
+}
+#angol {
+    width: 10%;
+}
+#magyar {
+    width: 10%;
+}
+ol li {
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+#ggg {
+ text-align: center;
+ font-size: 50px;
+}
